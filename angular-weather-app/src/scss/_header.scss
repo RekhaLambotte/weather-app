@@ -1,0 +1,14 @@
+
+nav{
+    background-color: rgba(0, 0, 0, 0.452);
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border: black solid;
+
+    a{
+        padding: 1rem;
+        border: solid red;
+    }
+}

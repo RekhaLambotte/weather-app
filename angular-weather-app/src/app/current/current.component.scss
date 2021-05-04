@@ -1,0 +1,20 @@
+body{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vw;
+  }
+
+  main{
+    text-align: center;
+
+    .image{
+      background-color: lightcoral;
+    }
+  }
+
+  img{
+    width: 100%;
+    
+  }
